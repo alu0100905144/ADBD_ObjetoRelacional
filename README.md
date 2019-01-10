@@ -5,4 +5,4 @@
 
 ## Proyectos
 ![Proyectos](proyectos/mod_conceptual_proyectos.png)
-![Proyectos](proyectos/proyectos.png)
+![Proyectos](proyectos/proyectos.PNG)
