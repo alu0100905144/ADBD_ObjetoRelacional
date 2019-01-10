@@ -1,7 +1,7 @@
 # ADBD ObjetoRelacional
 
 ## Catastros
-![Catastros](catastros/catastros.png)
+![Catastros](catastros/catastros_.png)
 
 ## Proyectos
 ### Modelo conceptual
